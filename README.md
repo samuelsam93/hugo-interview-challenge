@@ -32,6 +32,7 @@ The following steps are required to setup and run the demo:
 
 4. Next generate your prisma client using `prisma generate` and install any necessary dependencies (`npm install`)
 5. After following these steps you should be able to run the app using `npm run start` as described above (or `npm run start:api` and `npm run start:client`)
+6. Landing page can be accessed in browser at http://localhost:5173/, apis can be hit from postman or other methods at http://localhost:8000/
 
 # Next Steps
 
